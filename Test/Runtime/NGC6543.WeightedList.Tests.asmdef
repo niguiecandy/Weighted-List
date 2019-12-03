@@ -1,7 +1,11 @@
 {
     "name": "NGC6543.WeightedList.Tests",
-    "references": [],
-    "optionalUnityReferences": [],
+    "references": [
+        "NGC6543.WeightedList"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

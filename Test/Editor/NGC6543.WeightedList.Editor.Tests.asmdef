@@ -1,7 +1,12 @@
 {
     "name": "NGC6543.WeightedList.Editor.Test",
-    "references": [],
-    "optionalUnityReferences": [],
+    "references": [
+        "NGC6543.WeightedList.Editor",
+        "NGC6543.WeightedList"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
     "includePlatforms": [
         "Editor"
     ],

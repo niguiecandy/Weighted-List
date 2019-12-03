@@ -1,0 +1,23 @@
+{
+	"name": "com.ngc6543.weightedlist",
+	"version": "0.1.0",
+	"displayName": "Weighted List",
+	"description": "Weighted List selection for Unity",
+	"unity": "2017.1",
+	"dependency":
+	{
+		
+	},
+
+	"keywords":
+	[
+		"List",
+		"Weighted Selection"
+	],
+	
+	"author":
+	{
+		"name": "Chaehyeok Lim",
+		"email": "ngc6543@me.com"
+	}
+}

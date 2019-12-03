@@ -1,6 +1,8 @@
 {
     "name": "NGC6543.WeightedList.Editor",
-    "references": [],
+    "references": [
+        "NGC6543.WeightedList"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
